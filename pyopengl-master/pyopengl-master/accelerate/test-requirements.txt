@@ -1,5 +1,0 @@
-pygame
-pytest
--r ./requirements.txt
--r ./dev-requirements.txt
--e ../

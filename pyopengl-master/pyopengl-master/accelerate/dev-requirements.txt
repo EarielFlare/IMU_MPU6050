@@ -1,3 +1,0 @@
-tox
-cython>=0.28
-numpy
